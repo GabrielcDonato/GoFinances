@@ -5,7 +5,7 @@ export function Dashboard() {
     return (
         <Container>
             <Title>
-                oi
+                Hello
             </Title>
         </Container>
     )

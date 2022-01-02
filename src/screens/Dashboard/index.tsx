@@ -5,7 +5,7 @@ export function Dashboard() {
     return (
         <View style = {styles.container}>
             <Text>
-                penis longo
+                oi
             </Text>
         </View>
     )

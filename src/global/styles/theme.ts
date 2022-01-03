@@ -14,8 +14,14 @@ export default {
         attention_light: 'rgba(232, 63, 91, 0.5)',
 
         shape: '#ffffff',
-        title: '#363f5f',
+        title: '#363F5F',
         text: '#969cb2',
         background: '#f0f2f5',
+    },
+
+    fonts: {
+        regular: 'Poppins_400Regular',
+        medium: 'Poppins_500Medium',
+        bold: 'Poppins_700Bold',
     }
 }
